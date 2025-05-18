@@ -10,5 +10,5 @@ fn draw_tree(levels: usize) {
 }
 
 fn main() {
-    draw_tree(5); // змінюй це число, щоб малювати більше або менше рівнів
+    draw_tree(5);
 }
